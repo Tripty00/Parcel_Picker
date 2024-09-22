@@ -19,7 +19,7 @@
  }
  
  .container .content h3 span{
-   background: crimson;
+   background: rgb(123, 4, 90);
    color:#fff;
    border-radius: 5px;
    padding:0 15px;
@@ -35,7 +35,7 @@
 }
 
 .container .content .btn:hover{
-   background: crimson;
+   background: rgb(123, 4, 90);
 }
 .form-container{
    min-height: 100vh;
@@ -83,7 +83,7 @@
 }
 
 .form-container form p a{
-   color:crimson;
+   color:rgb(105, 6, 72);
 }
 
 .form-container form .error-msg{
@@ -95,4 +95,5 @@
    font-size: 20px;
    padding:10px;
 }
+
 
